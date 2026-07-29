@@ -22,5 +22,11 @@
         "key": "tever1",
         "expirydate": "15-06-2028",
         "Allowoffline": false
+    },
+{
+        "device_id": "814d1cb1d67fb28b",
+        "key": "prince",
+        "expirydate": "15-06-2028",
+        "Allowoffline": false
     }
 ]
