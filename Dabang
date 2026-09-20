@@ -58,5 +58,11 @@
         "key": "pm",
         "expirydate": "15-08-2028",
         "Allowoffline": false
+    },
+{
+        "device_id": "79d18fdf87145bb9",
+        "key": "donar",
+        "expirydate": "15-08-2028",
+        "Allowoffline": false
     }
 ]
