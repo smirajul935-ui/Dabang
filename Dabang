@@ -70,5 +70,11 @@
         "key": "Alen",
         "expirydate": "15-08-2028",
         "Allowoffline": false
+    },
+{
+        "device_id": "d77e5e7b04f1d18c",
+        "key": "teverx",
+        "expirydate": "15-08-2028",
+        "Allowoffline": false
     }
 ]
