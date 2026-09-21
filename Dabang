@@ -64,5 +64,11 @@
         "key": "donar",
         "expirydate": "15-08-2028",
         "Allowoffline": false
+    },
+{
+        "device_id": "903e3d01e6b803dd",
+        "key": "Alen",
+        "expirydate": "15-08-2028",
+        "Allowoffline": false
     }
 ]
