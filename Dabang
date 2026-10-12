@@ -82,5 +82,11 @@
         "key": "sayoni",
         "expirydate": "15-08-2028",
         "Allowoffline": false
+    },
+{
+        "device_id": "7cca79c1b80b0573",
+        "key": "rohan",
+        "expirydate": "15-08-2028",
+        "Allowoffline": false
     }
 ]
